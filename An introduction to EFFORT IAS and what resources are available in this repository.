@@ -1,0 +1,16 @@
+General_Studies: Notes, strategy documents, and study resources for GS topics.
+Optional_Subjects: Resources for various optional subjects (e.g., Geography, History, Sanskrit).
+Current_Affairs: Monthly updates, analysis, and summaries.
+CSAT: CSAT reasoning, quantitative aptitude, and reading comprehension resources.
+Previous_Year_Questions: Topic-wise analysis of past UPSC questions.
+Mock_Tests: Practice tests and answer keys.
+LICENSE
+Include a license file if you want to control how others can use your material.
+
+CONTRIBUTING.md
+Guidelines for contributors if you plan to have others contribute to this repository.
+
+.gitignore
+Define any files or folders to ignore during version control, like temporary files or specific formats.
+
+With this setup, EFFORT IAS can organize resources effectively, making it easy for students to navigate and use the materials for their UPSC preparation. Let me know if you need any specific additions or customization!
