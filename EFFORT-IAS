@@ -1,0 +1,74 @@
+### Repository Name:
+`Best-IAS-Institute-for-UPSC-Exam-Preparation-EFFORT-IAS`
+
+### Repository Structure and File Contents:
+
+1. **README.md**  
+   A brief overview of the repository, the mission of EFFORT IAS, and how to navigate the materials provided.
+
+   ```markdown
+   # Best IAS Institute for UPSC Exam Preparation - EFFORT IAS
+
+   Welcome to EFFORT IAS's official repository for UPSC preparation. Our goal is to provide accessible, high-quality resources for IAS aspirants to succeed in the Civil Services Exam.
+
+   ## Repository Contents
+   - **General Studies**: Notes, strategy guides, and subject-specific resources.
+   - **Optional Subjects**: Detailed resources for optional subjects like Geography, History, and Sanskrit.
+   - **Current Affairs**: Monthly and yearly summaries of important events and analyses.
+   - **CSAT Preparation**: Resources, practice questions, and reasoning strategies for CSAT.
+   - **Previous Year Question Papers**: Topic-wise and year-wise question analyses.
+   - **Mock Tests**: Practice tests with answer keys and explanations.
+
+   **Contact Us**:  
+   - 📞 Phone: +91 9667848422, +91 9667848455  
+   - 🌐 Website: [EFFORT IAS](https://www.effortias.com)
+
+   **License**: Check the `LICENSE` file for terms of use.
+   ```
+
+2. **General_Studies/**  
+   Folder containing study materials for GS subjects. Example files:
+   
+   - `Polity.md`  
+   - `History.md`  
+   - `Geography.md`  
+
+3. **Optional_Subjects/**  
+   Folder for optional subjects. For example:
+
+   - `Geography_Optional/`
+   - `Sanskrit_Optional/`
+   
+4. **Current_Affairs/**  
+   Contains monthly and annual current affairs compilations. Example files:
+
+   - `Monthly_Current_Affairs_Jan_2024.md`
+   - `Annual_Current_Affairs_2024.md`
+
+5. **CSAT/**  
+   Folder for CSAT-specific resources:
+
+   - `Reasoning_Practice_Questions.md`
+   - `Quantitative_Aptitude_Tips.md`
+
+6. **Previous_Year_Questions/**  
+   Topic-wise question analysis and insights from previous years.
+
+7. **Mock_Tests/**  
+   Folder for mock tests, practice exams, and answer keys. Example files:
+
+   - `Mock_Test_1.md`
+   - `Mock_Test_2.md`
+
+8. **LICENSE**  
+   If using a specific license, include it here to clarify usage rights.
+
+9. **CONTRIBUTING.md**  
+   Guidelines for contributions if you open the repository for public contributions.
+
+10. **.gitignore**  
+   To specify files/folders to ignore, such as temporary files or certain formats.
+
+---
+
+This structure allows for easy navigation, making resources accessible and organized. Let me know if you’d like any additional features or adjustments!
